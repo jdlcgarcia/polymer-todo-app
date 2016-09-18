@@ -1,0 +1,7 @@
+{
+  "name": "polymer-todo-app",
+  "short_name": "polymer-todo-app",
+  "description": "a TODO list",
+  "start_url": "/",
+  "display": "standalone"
+}
